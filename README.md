@@ -1,4 +1,5 @@
 **Neste Documento está documentado alguns conceitos de JAVA e suas estruturas de código e exemplos de como deve funcionar**
+**Dentro deste diretório tem alguns exemplos de códigos e desafios que você pode utilizar para estudar e praticar**
 
 > Java é uma linguagem de programação orientada a objetos, criada para ser portável e segura. A arquitetura central é composta por:
 > 
